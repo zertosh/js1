@@ -1,0 +1,22 @@
+{
+  "name": "js1",
+  "version": "0.0.0",
+  "description": "js1",
+  "keywords": [
+    "js1"
+  ],
+  "license": "MIT",
+  "author": "Andres Suarez <zertosh@gmail.com>",
+  "files": [
+    "js1.js"
+  ],
+  "main": "js1.js",
+  "repository": "https://github.com/zertosh/js1",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^8.0.1"
+  }
+}
